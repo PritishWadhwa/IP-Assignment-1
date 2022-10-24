@@ -6,6 +6,7 @@
 import datetime
 import urllib.request
 
+# JSON is a syntax for storing and exchanging data. 
 
 def getLatestRates():
     """
